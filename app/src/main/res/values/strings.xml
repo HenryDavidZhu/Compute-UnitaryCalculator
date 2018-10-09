@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compute</string>
+    <string name="input_prompt">Input Unit</string>
+</resources>

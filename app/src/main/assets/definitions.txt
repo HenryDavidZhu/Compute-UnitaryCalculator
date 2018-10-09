@@ -1,0 +1,11 @@
+Proton mass, 1.67 * 10<sup>-27</sup> kg, constant
+Neutron mass, 1.67 * 10<sup>-27</sup> kg, constant
+Electron mass, 9.11 * 10<sup>-31</sup> kg, constant
+Avogadro's number, 6.02 * 10<sup>23</sup> mol<sup>-1</sup>, constant
+Universal gas constant, 8.31 J / (mol * K), constant
+Boltzmann's constant, 1.38 * 10<sup>-23</sup> J / K, constant
+Electron charge magnitude, 1.6 * 10<sup>-19</sup> C, constant
+1 electron volt, 1.6 * 10<sup>-19</sup> J, constant
+Speed of light, 3 * 10<sup>8</sup> m/s, constant
+Universal gravitational constant, 6.67 * 10<sup>-11</sup> m<sup>3</sup>/kg * s<sup>2</sup>, constant
+Gravitational accel. @ Earth's surface, 9.8 m/s<sup>2</sup>, constant
